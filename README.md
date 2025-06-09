@@ -2,8 +2,6 @@
 
 Este es mi primer proyecto de landing page, creado con **HTML** y **CSS**.
 
-👉 Está publicado en: [https://freelancer-nahuelabreu.netlify.app](https://freelancer-nahuelabreu.netlify.app)
-
 ## Descripción
 
 Esta landing page tiene como objetivo presentar mis servicios como freelancer.  
